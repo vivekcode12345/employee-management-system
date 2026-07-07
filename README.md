@@ -1,5 +1,5 @@
 # EMS Portal - Employee Management System
-
+# Project Updated
 A modern, full-featured Employee Management System built with React and Tailwind CSS. EMS Portal streamlines workforce management by enabling administrators to create, assign, and track tasks while providing employees with a clean interface to manage their work.
 
 ![React](https://img.shields.io/badge/React-19.2.6-61DAFB?logo=react)
